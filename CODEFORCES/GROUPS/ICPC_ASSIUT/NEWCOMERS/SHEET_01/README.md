@@ -10,7 +10,7 @@
 
 | Order | Label | Problem | Status |
 |---:|:---:|---|---|
-| 1 | A | Say Hello With C++ | NOT_STARTED |
+| 1 | A | Say Hello With C++ | STARTED |
 | 2 | B | Basic Data Types | NOT_STARTED |
 | 3 | C | Simple Calculator | NOT_STARTED |
 | 4 | D | Difference | NOT_STARTED |
