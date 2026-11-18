@@ -4,7 +4,7 @@
 - **Track:** Newcomers Training
 - **Sheet:** 01 — Data Type - Conditions
 - **Problem URL:** https://codeforces.com/group/MWSDmqGsZm/contest/326175
-- **Status:** NOT_STARTED
+- **Status:** SOLVED
 - **First attempted:**
 - **Accepted on:**
 
@@ -17,7 +17,7 @@
 ## Conditions and cases
 
 ## Solution steps
-1.
+1. an int input % 10 = last digit
 2.
 3.
 
