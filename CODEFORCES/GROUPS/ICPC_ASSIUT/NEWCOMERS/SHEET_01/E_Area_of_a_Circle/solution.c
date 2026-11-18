@@ -1,7 +1,15 @@
+
 #include <stdio.h>
 
-int main(void) {
-    // Write your solution here.
+int main() {
+
+    double r, area;
+
+    scanf("%lf", &r);
+
+    area = 3.141592653 * r * r;
+
+    printf("%.9f\n", area);
 
     return 0;
 }
