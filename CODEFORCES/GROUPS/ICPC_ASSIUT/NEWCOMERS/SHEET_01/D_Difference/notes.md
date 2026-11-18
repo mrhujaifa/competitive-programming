@@ -26,6 +26,7 @@
 ## Space complexity
 
 ## Mistake and lesson
+    - Mistake data type
 
 ## Re-solve
 - [ ] Solve again without opening the old code
