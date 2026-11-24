@@ -7,6 +7,7 @@
 - **Status:** SOLVED
 - **First attempted:**
 - **Accepted on:**
+- **Language:** C, C++
 
 > The original problem title contains “C++”. This workspace uses `solution.c` because you are currently learning C.
 
