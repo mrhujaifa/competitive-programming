@@ -7,6 +7,7 @@
 - **Status:** SOLVED
 - **First attempted:**
 - **Accepted on:**
+- **Language:** C, C++
 
 ## Problem in my own words
 
